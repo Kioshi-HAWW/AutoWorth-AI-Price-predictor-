@@ -1,6 +1,7 @@
-# 🚗 Car Price Prediction System
+# 🚗 AutoWorth-AI(Price Prediction)
 
-A Machine Learning based web application that predicts the selling price of a used car using a trained **Random Forest Regressor** model. The application is built with **Flask** and provides a simple, user-friendly interface for real-time price prediction.
+🚗 AutoWorth-AI is a machine learning-based car price prediction system that estimates a vehicle's market value using key features and historical data. It applies data preprocessing, exploratory data analysis, feature engineering, and regression techniques to deliver accurate and reliable price predictions.
+
 
 ---
 
@@ -144,7 +145,7 @@ The application is successfully deployed on **Render** and can be accessed throu
 
 ## 👨‍💻 Author
 
-**Prathmesh Chedge**
+**Udit Narayan Rout**
 
 ---
 
